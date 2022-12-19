@@ -1,10 +1,13 @@
 # flutter_tech_test
 
-Task 1
-Write a number of BDD scenarios using Gherkin to test the following features:
+See the test scenarios below.
+You can find the test cases also in the e2e/pokerstars folder inside pokerstars.feature file.
 
-Adding things to, and removing things from, the bet slip
-Changing the odds format 
+To run the test please use the following command:
+$npx cypress open
+
+Start the pokerstars.feature from the cypress e2e menu.
+
 
 ***
 
